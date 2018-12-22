@@ -1,0 +1,31 @@
+{
+  "name": "cdimascio-card",
+  "version": "1.0.0",
+  "description": "My personal calling card",
+  "bin": "./bin/card.js",
+  "main": "./bin/card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdimascio/cdimascio-card.git"
+  },
+  "keywords": [
+    "calling",
+    "card",
+    "cdimascio",
+    "carmine",
+    "dimascio"
+  ],
+  "author": "Carmine DiMascio <cdimascio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdimascio/cdimascio-card/issues"
+  },
+  "homepage": "https://github.com/cdimascio/cdimascio-card#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
