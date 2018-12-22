@@ -1,7 +1,7 @@
 {
   "name": "cdimascio",
   "version": "1.0.0",
-  "description": "My personal calling card",
+  "description": "Carmine's personal calling card",
   "bin": "./bin/card.js",
   "main": "./bin/card.js",
   "scripts": {
