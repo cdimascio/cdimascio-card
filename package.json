@@ -1,5 +1,5 @@
 {
-  "name": "cdimascio-card",
+  "name": "cdimascio",
   "version": "1.0.0",
   "description": "My personal calling card",
   "bin": "./bin/card.js",
