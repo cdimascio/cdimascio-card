@@ -1,6 +1,6 @@
 {
   "name": "cdimascio",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Carmine's personal calling card",
   "bin": "./bin/card.js",
   "main": "./bin/card.js",
@@ -12,11 +12,9 @@
     "url": "git+https://github.com/cdimascio/cdimascio-card.git"
   },
   "keywords": [
-    "calling",
-    "card",
-    "cdimascio",
-    "carmine",
-    "dimascio"
+    "Carmine",
+    "DiMascio",
+    "cdimascio"
   ],
   "author": "Carmine DiMascio <cdimascio@gmail.com>",
   "license": "MIT",
