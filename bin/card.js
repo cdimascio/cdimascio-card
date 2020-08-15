@@ -11,7 +11,7 @@ const options = {
 const data = {
   name: chalk.white.bold('                   CARMINE DIMASCIO'),
   handle: chalk.cyan('cdimascio'),
-  work: chalk.white('Senior Software Engineer at IBM'),
+  work: chalk.white('Senior Software Engineer at Amazon'),
   twitter: chalk.cyan('https://twitter.com/CarmineDiMascio'),
   github: chalk.cyan('https://github.com/cdimascio'),
   linkedin: chalk.cyan('https://linkedin.com/in/carmine'),
