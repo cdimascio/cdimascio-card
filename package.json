@@ -1,6 +1,6 @@
 {
   "name": "cdimascio",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Carmine's personal calling card",
   "bin": "./bin/card.js",
   "main": "./bin/card.js",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/cdimascio/cdimascio-card#readme",
   "dependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1"
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
   }
 }
